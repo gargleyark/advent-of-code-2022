@@ -18,5 +18,5 @@ For example, if I wanted to run day 4 part 2, I would run `npm start 4.5`
 
 ### State of advent 🎅
 
-- [] Day 1
-  - [] Part 2
+- [x] Day 1
+  - [x] Part 2
